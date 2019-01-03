@@ -7,7 +7,7 @@ channels and the onchain funds in unspent transaction outputs.
 run the plugin with:
 
 ```
-lightningd --plugin=/path/to/lightning/contrib/plugins/funds/funds.py
+lightningd --plugin=/path/to/c-lightning-plugin-collection/simpleFundsOverview/funds.py
 ```
 
 Once the plugin is active you can run `lightning-cli help funds`
