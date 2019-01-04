@@ -15,6 +15,9 @@ to learn about the command line API.
 
 The easiest call will be `lightning-cli funds` without any additional arguments. 
 
+you can create the plugin yourself by extending `fundslapp.py` following this
+video: https://youtu.be/FYs1I-pCJIg
+
 ## About the plugin
 This plugin was created and is maintained by Rene Pickhardt. It shall serve as
 an educational resource on his Youtube channel at:
@@ -28,7 +31,7 @@ If you like my work feel free to support me on patreon:
 https://www.patreon.com/renepickhardt
 
 Or support the crowdfunding campaign of my book project about the lightning network at:
-https://tallyco.in/s/cbh6fp/
+https://tallyco.in/s/lnbook/
 
 or leave me a tip on my donation page (comming from the donation plugin):
 https://ln.rene-pickhardt.de/

@@ -19,6 +19,7 @@ unit can be s for satoshi, b for bits, m for milliBitcoin and B for BTC.
 
 Author: Rene Pickhardt (https://ln.rene-pickhardt.de)
 Development of the plugin was sponsored by fulmo.org
+You can also support future work at https://tallyco.in/s/lnbook/
 """
 
 import json
